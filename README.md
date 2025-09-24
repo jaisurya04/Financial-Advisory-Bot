@@ -4,7 +4,7 @@
 </div>
 
 ---
-### Team Name: TechX
+
 
 ## Financial Advisory Bot using RAG with GenAI
 
