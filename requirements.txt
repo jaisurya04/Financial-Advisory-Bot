@@ -1,0 +1,11 @@
+streamlit==1.37.0
+langchain==0.2.14
+langchain-community==0.2.12
+langchain-huggingface==0.0.3
+langchain-openai
+chromadb>=0.4.22
+sentence-transformers==3.0.1
+huggingface-hub==0.23.5
+openai==1.41.0
+python-dotenv==1.0.1
+pysqlite3-binary
