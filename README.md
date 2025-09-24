@@ -1,6 +1,6 @@
 <div align="center">
     <h2>Q/A project using Langchain</h2>
-    Team Members: <i> <a href="mailto:atharvamundke22@gmail.com">Atharva Mundke</a>, <a href="mailto:shwetanagapure1024@gmail.com">Shweta Nagapure</a> 
+  
 </div>
 
 ---
